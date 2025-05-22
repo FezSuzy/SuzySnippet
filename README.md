@@ -1,6 +1,6 @@
-# SuzySnippet Privacy Policy
+# SuzySnippets Privacy Policy
 
-SuzySnippet does not collect, store, or transmit any personal or user data.
+SuzySnippets does not collect, store, or transmit any personal or user data.
 
 All user-defined snippets and preferences are stored locally in your browser using Chrome’s `storage` API. No data is sent to any external server.
 
